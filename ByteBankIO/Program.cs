@@ -1,10 +1,11 @@
 ﻿using ByteBankIO;
 
-class Program
+partial class Program
 {
     static void Main(string[] args)
     {
 
+        CreatingFileWithWrite();
         Console.ReadLine();
     }
 }
